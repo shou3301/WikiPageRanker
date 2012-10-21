@@ -7,3 +7,7 @@ This program is going to be deployed on Amazon EC2 for CS495 and CS553 homework.
 Compile:
 
 $ mvn package
+
+Clean:
+
+$ mvn clean
